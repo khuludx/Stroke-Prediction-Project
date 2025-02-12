@@ -23,7 +23,24 @@ This project focuses on predicting stroke risk using **machine learning** and **
 
 ## 📊 Dataset
 
-The dataset used in this project is **healthcare-dataset-stroke-data.csv**.
+The dataset used in this project is **healthcare-dataset-stroke-data.csv**, located in the `data/` directory.
+
+### Data Imbalance
+The dataset is **imbalanced**, with only **4.9%** of cases labeled as stroke.
+
+![Data Imbalance](image1.png)
+
+### Smoking Status Distribution
+The following plot shows the distribution of smoking status among stroke cases.
+
+![Smoking Status Distribution](image2.png)
+
+### Glucose Levels and Stroke Risk
+Higher or lower glucose levels are associated with an increased risk of stroke.
+
+![Glucose Levels vs Stroke Risk](image3.png)
+
+The dataset used in this project is **healthcare-dataset-stroke-data.csv**, located in the `data/` directory.
 The dataset contains the following attributes:
 
 - **ID** (Removed during preprocessing)
