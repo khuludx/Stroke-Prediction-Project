@@ -23,7 +23,7 @@ This project focuses on predicting stroke risk using **machine learning** and **
 
 ## 📊 Dataset
 
-The dataset used in this project is **healthcare-dataset-stroke-data.csv**, located in the `data/` directory.
+The dataset used in this project is **healthcare-dataset-stroke-data.csv**.
 
 ### Data Imbalance
 The dataset is **imbalanced**, with only **4.9%** of cases labeled as stroke.
